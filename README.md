@@ -1,7 +1,7 @@
-## EMAIL VERIFY
+# EMAIL VERIFY
 
 
-# Introduction 
+## Introduction 
 
 
 
