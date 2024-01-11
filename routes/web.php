@@ -30,6 +30,8 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
+
+
 /** ============ ROUTES EMAIL VERIFY ================ */
 
 // Route::get('/email/verify', function () {
